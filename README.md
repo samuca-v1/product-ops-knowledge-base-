@@ -1,4 +1,4 @@
-# Product Operations — N5X
+# Product Operations
 
 > **Missão:** garantir que a estratégia de produto esteja diretamente conectada aos resultados de negócio, utilizando dados e processos eficientes para acelerar a tração da plataforma.
 
