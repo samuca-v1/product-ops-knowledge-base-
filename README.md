@@ -2,8 +2,6 @@
 
 > **Missão:** garantir que a estratégia de produto esteja diretamente conectada aos resultados de negócio, utilizando dados e processos eficientes para acelerar a tração da plataforma.
 
-Isso aborda diretamente as dores da N5X: alinhamento com negócio, proximidade com CS e Sales, e foco em tração e nos *liquidity providers*.
-
 ---
 
 ## 🚀 Comece por aqui
