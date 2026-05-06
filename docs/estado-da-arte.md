@@ -15,5 +15,3 @@ A função do Product Ops é justamente **criar, refinar e manter esses "blocos"
 Ao organizar o caos operacional, Product Ops libera a equipe para focar no que faz de melhor: **inovar e entregar valor ao cliente**, transformando uma visão genial em um resultado replicável e impactante no mercado.
 
 ![A Grande Onda de Kanagawa](../assets/grande-onda-kanagawa.png)
-
-> 💡 Salve a imagem que está no Notion na pasta `assets/` do repo e ajuste o caminho acima.
