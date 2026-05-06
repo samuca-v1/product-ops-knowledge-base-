@@ -7,8 +7,7 @@
 ## 🚀 Comece por aqui
 
 - [Estado da arte](docs/estado-da-arte.md)
-- Onboarding de produto *(em construção)*
-- Métricas *(em construção)*
+- Métricas *(WIP)*
 - Cerimônias *(WIP)*
 
 ## 📘 Playbooks
