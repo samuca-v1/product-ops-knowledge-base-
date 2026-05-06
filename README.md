@@ -44,4 +44,4 @@
 
 ---
 
-_Mantido por Samuel Santos · N5X_
+_Mantido por Samuel Santos
